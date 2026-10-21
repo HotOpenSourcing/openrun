@@ -1,5 +1,4 @@
 /dist/
-/.vscode
 /openrun
 /mounts/
 /metadata/
@@ -30,3 +29,5 @@
 
 go.work
 go.work.sum
+config.bat
+node_modules
